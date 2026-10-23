@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="G3P Converter icon">
+  <rect width="64" height="64" rx="12" fill="#e5f4ec"/>
+  <rect x="9" y="11" width="46" height="31" rx="5" fill="#143226"/>
+  <rect x="14" y="16" width="36" height="21" rx="2" fill="#042418"/>
+  <path d="M17 46h19" stroke="#143226" stroke-width="4" stroke-linecap="round"/>
+  <path d="M19 22.5h24M19 29.5h15" stroke="#2fbf8a" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="45" cy="48" r="5.5" fill="#0a7952"/>
+</svg>

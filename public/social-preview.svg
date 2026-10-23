@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="G3P Converter social preview">
+  <rect width="1200" height="630" fill="#e5f4ec"/>
+  <path d="M0 80h1200M0 160h1200M0 240h1200M0 320h1200M0 400h1200M0 480h1200M0 560h1200M120 0v630M240 0v630M360 0v630M480 0v630M600 0v630M720 0v630M840 0v630M960 0v630M1080 0v630" stroke="#c6e2d3" stroke-width="1"/>
+  <rect x="78" y="86" width="1056" height="456" fill="#f7fcf9" stroke="#0a7952" stroke-width="3"/>
+  <text x="120" y="168" fill="#0a7952" font-family="Arial, sans-serif" font-size="30" font-weight="800">MINT UTILITY BENCH</text>
+  <text x="120" y="254" fill="#14231d" font-family="Arial, sans-serif" font-size="76" font-weight="800">G3P Converter</text>
+  <text x="120" y="316" fill="#54695e" font-family="Arial, sans-serif" font-size="34">PNG/JPEG to 384 x 192 RGB565 still-picture files</text>
+  <rect x="706" y="350" width="328" height="164" rx="18" fill="#143226"/>
+  <rect x="732" y="376" width="276" height="112" fill="#042418"/>
+  <path d="M758 418h152M758 452h98" stroke="#2fbf8a" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="1038" cy="512" r="30" fill="#0a7952"/>
+</svg>

@@ -1,0 +1,16 @@
+{
+  "name": "G3P Converter",
+  "short_name": "G3P",
+  "description": "Convert PNG and JPEG images into Casio fx-CG .g3p still-picture files.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#e5f4ec",
+  "theme_color": "#eef4f1",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml"
+    }
+  ]
+}
