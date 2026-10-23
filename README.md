@@ -28,11 +28,24 @@ The current implementation targets the simple 16-bit `3C1B` `.g3p` variant:
 
 # Running Locally
 
+## Requirements
+
+- **Node.js 20.19+ or 22.12+** (or **Bun 1.x**, which the project was built with) — needed only for the web app
+- **Python 3.9+** — only for the command-line converter
+- No accounts, no API keys, no calculator connection: everything runs locally
+
 ## Web App
 
 ```sh
 bun install
 bun run dev
+```
+
+No Bun installed? Plain npm works the same way:
+
+```sh
+npm install
+npm run dev
 ```
 
 Then open the local Vite URL and load a PNG or JPEG. The app previews the
@@ -74,6 +87,12 @@ The web UI ships in English and Italian. Use the language toggle in the header;
 the choice is stored in the browser and restored on the next visit.
 
 ## Python CLI
+
+First, make sure Pillow is installed:
+
+```sh
+pip install -r requirements.txt
+```
 
 ```sh
 python3 -m g3p_converter input.png output.g3p
