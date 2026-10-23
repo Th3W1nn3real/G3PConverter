@@ -6,7 +6,7 @@
   "type": "module",
   "license": "MIT",
   "author": "Th3W1nn3real (https://github.com/Th3W1nn3real)",
-  "homepage": "https://github.com/Th3W1nn3real/G3PConverter",
+  "homepage": "https://g3p-converter.vercel.app",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Th3W1nn3real/G3PConverter.git"

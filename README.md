@@ -1,5 +1,7 @@
 # G3P Converter
 
+[![CI](https://github.com/Th3W1nn3real/G3PConverter/actions/workflows/ci.yml/badge.svg)](https://github.com/Th3W1nn3real/G3PConverter/actions/workflows/ci.yml) [**→ Try it online**](https://g3p-converter.vercel.app)
+
 A small, focused converter for producing `.g3p` still-picture files from PNG and JPEG
 images — a personal remix of [CasPCE](https://github.com/mdanishharoon/CasPCE) by
 mdanishharoon (MIT licensed).
