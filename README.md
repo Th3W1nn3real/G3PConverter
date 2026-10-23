@@ -3,8 +3,7 @@
 [![CI](https://github.com/Th3W1nn3real/G3PConverter/actions/workflows/ci.yml/badge.svg)](https://github.com/Th3W1nn3real/G3PConverter/actions/workflows/ci.yml) [**→ Try it online**](https://g3p-converter.vercel.app)
 
 A small, focused converter for producing `.g3p` still-picture files from PNG and JPEG
-images — a personal remix of [CasPCE](https://github.com/mdanishharoon/CasPCE) by
-mdanishharoon (MIT licensed).
+images.
 
 No Casio Picture Conversion Engine required: no virtual machines, no platform quirks,
 no license keys. Load images, preview them on an fx-CG50 frame, and download `.g3p`
@@ -119,11 +118,8 @@ the accepted still-picture structure.
 
 # Credits
 
-- Original project: [CasPCE](https://github.com/mdanishharoon/CasPCE) by
-  [mdanishharoon](https://github.com/mdanishharoon) — the conversion core and the
-  design groundwork come from there.
 - Format research: the Cemetech and WikiPrizm communities.
 
 # License
 
-[MIT](LICENSE) © Th3W1nn3real, based on CasPCE © mdanishharoon.
+[MIT](LICENSE) © Th3W1nn3real
